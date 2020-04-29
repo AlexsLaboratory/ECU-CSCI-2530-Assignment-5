@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LoweM/OneDrive - East Carolina University/Spring Semester 2020/CSCI 2530 section 001/Programming Assignments/Assignment 5/equiv.h
+
+/cygdrive/c/Users/LoweM/OneDrive - East Carolina University/Spring Semester 2020/CSCI 2530 section 001/Programming Assignments/Assignment 5/mst.cpp
+cstdio
+-
+iostream
+-
+cstdlib
+-
+equiv.h
+/cygdrive/c/Users/LoweM/OneDrive - East Carolina University/Spring Semester 2020/CSCI 2530 section 001/Programming Assignments/Assignment 5/equiv.h
+
